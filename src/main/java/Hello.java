@@ -6,5 +6,6 @@ public class Hello {
         LOG.info("Application started");
         System.out.println("Hello World");
         LOG.info("Application finished");
+
     }
 }
